@@ -18,7 +18,7 @@ const EXPERIENCE = [
       "Led the Nova Lite and Nova Sonic voice AI POC. Debug production flows with Splunk and CloudWatch logs and test IVR with Cyara."
     ],
     tags: "LangGraph, LangChain, MCP, RAG, FastAPI, AWS, Genesys Cloud, Splunk"
-  },
+  },                   
   {
     type: "internship",
     role: "Developer Intern: Agentic AI and IVR",
