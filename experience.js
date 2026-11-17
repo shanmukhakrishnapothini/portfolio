@@ -10,14 +10,14 @@ const EXPERIENCE = [
     role: "Software Engineer: Agentic AI and IVR Developer",
     company: "AppXcelerate Solutions Pvt Ltd",
     client: "Deloitte client project for Elevance Health",
-    start: "2026-01-22", end: null,
+    start: "2026-01-01", end: null,
     bullets: [
-      "Build agentic AI workflows and multi-agent systems with LangGraph, LangChain, LlamaIndex and Google ADK, with MCP tools for enterprise systems.",
+      "Build agentic AI workflows and multi-agent systems with LangGraph, LangChain, with MCP tools for enterprise systems.",
       "Run production RAG on Pinecone and Bedrock Knowledge Bases, with better answer accuracy",
       "Build an MCP-based agentic IVR where the AI takes the whole call and routes it to the appropriate agent, plus IVR and voice AI on Genesys Cloud, Amazon Connect, Lex, Lambda and Polly.",
       "Led the Nova Lite and Nova Sonic voice AI POC. Debug production flows with Splunk and CloudWatch logs and test IVR with Cyara."
     ],
-    tags: "LangGraph, LangChain, MCP, RAG, FastAPI, AWS, Genesys Cloud, Splunk"
+    tags: "LangGraph, LangChain, MCP, RAG, FastAPI, AWS, Genesys Cloud, Splunk, Redis"
   },                   
   {
     type: "internship",
@@ -30,7 +30,7 @@ const EXPERIENCE = [
       "Integrated Amazon Connect, Lex, Lambda and Polly, with REST lookups for live account data.",
       "Moved into agentic AI work: RAG pipelines and AI proofs of concept with Nova Sonic on Bedrock."
     ],
-    tags: "Genesys Cloud, Amazon Connect, Lex, Lambda, Bedrock"
+    tags: "Genesys Cloud, Amazon Connect, Lex, Lambda, Bedrock, Cloud Watch Logs"
   },
   {
     type: "internship",
@@ -39,10 +39,11 @@ const EXPERIENCE = [
     start: "2025-01-01", end: "2025-09-01",
     bullets: [
       "Built and maintained a CRM portal with Python and React.js.",
+      "Worked on uilding both frontend and backend for the application",
       "Integrated REST APIs and built responsive interfaces.",
       "Worked in Agile sprints and used Git for team collaboration."
     ],
-    tags: "Python, React.js, REST APIs, Agile, Git"
+    tags: "Python, React.js, REST APIs, Agile, Git, Redux"
   }
 ];
 
